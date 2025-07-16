@@ -1,4 +1,3 @@
-```markdown
 # 3D Coronary Tree Reconstruction from X-ray Projections
 
 A PyTorch-based implementation for reconstructing 3D coronary tree structures from multi-view X-ray projections, with a focus on solving gradient vanishing issues in projection-based optimization.
