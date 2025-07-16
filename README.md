@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 3. **Data preparation:**
-   - Place your CCTA data (`.label.nii.gz` files) in `/path/to/CCTA_raw/1-200/`
+   - Place your CCTA data (`.label.nii.gz` files) in `/path/to/CCTA_raw/1-200/` (You can use sample ImageCAS dataset in `/CAG-3D-Reconstruction/tree/main/NeCA/data/CCTA_raw/1-200/`)
    - Update data paths in the configuration files if necessary
 
 ### Running the Code
