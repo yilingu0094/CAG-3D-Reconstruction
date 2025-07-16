@@ -716,7 +716,7 @@ def main_reconstruction_experiment():
     print(f"="*80)
     
     # Target samples
-    target_sample_ids = list(range(91, 92))  # 91-99
+    target_sample_ids = list(range(91, 100))  # 91-99
     
     # Fixed: load fixed version projection data
     print(f"Loading fixed version projection data...")
