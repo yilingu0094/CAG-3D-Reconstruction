@@ -1,0 +1,29 @@
+{
+  "sample_id": 91,
+  "final_loss": 0.0,
+  "loss_history": [
+    0.0
+  ],
+  "optimal_shape": [
+    348,
+    348,
+    348
+  ],
+  "voxel_spacing": [
+    0.345,
+    0.345,
+    0.345
+  ],
+  "volume_statistics": {
+    "total_voxels": 42144192,
+    "active_voxels": 76693,
+    "fill_ratio": 0.001819776257663215,
+    "volume_shape": [
+      348,
+      348,
+      348
+    ]
+  },
+  "fix_status": "FIXED",
+  "fix_description": "Used continuous projections instead of binary (proj_vec > 0)"
+}
